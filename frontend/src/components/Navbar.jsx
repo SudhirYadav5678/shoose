@@ -89,7 +89,7 @@ function Navbar() {
             <nav className={`w-full h-12 lg:h-20 shadow-md z-10font-poppins p-3 lg:p-5 ${scrollDirection === "up" ? "fixed transition-all duration-1500" : ""}`}>
                 {/* desktop */}
                 <div className='hidden lg:flex justify-between'>
-                    <div>Logo</div>
+                    <div className='text-5xl'>R&B</div>
                     <div className='flex justify-between cursor-pointer'>
                         <div onClick={() => handleActive("home")} className={`px-4  hover:underline underline-offset-8 ${active === 'home' && 'text-2xl font-semibold'}`}><Link to='/'>Home</Link></div>
                         <div onClick={() => handleActive("men")} className={`px-4  hover:underline underline-offset-8 ${active === 'men' && 'text-2xl font-semibold'}`}><Link to='/men'> Men</Link></div>
@@ -105,7 +105,8 @@ function Navbar() {
 
                 {/* mobile */}
                 <div className='flex justify-between lg:hidden'>
-                    <div className='flex flex-row'><span onClick={() => (setMenu(true))} className='mr-3'><AlignJustify size={28} /></span><span>Logo</span></div>
+                    <div className='flex flex-row'><span onClick={() => (setMenu(true))} className='mr-3'><AlignJustify size={28} /></span>
+                        <span className='text-2xl'>R&B</span></div>
                     <div className='flex flex-row'><span onClick={mobileSearchToggle} className='mr-3'><Search size={28} /></span><span onClick={() => setLoginMobile(true)}><CircleUserRound size={28} /></span></div>
                 </div>
             </nav>

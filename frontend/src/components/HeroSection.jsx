@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { images } from '../assets/images.js'
-import { ArrowBigLeft, ArrowLeft, ArrowRight } from 'lucide-react'
+import { ArrowLeft, ArrowRight } from 'lucide-react'
 
 function HeroSection() {
     const [current, setCurrent] = useState(0)
@@ -16,7 +16,7 @@ function HeroSection() {
     }
     return (
         <>
-            <div className='pt-10 w-full h-full lg:pt-20'>
+            <div className='pt-5 w-full h-full lg:pt-14'>
                 <div className='mt-20'>
                     <div className='flex justify-center'><h1 className='text-3xl lg:text-5xl mb-3'>Step Into Style</h1></div>
                     <div className='flex justify-center'><h1 className='text-4xl font-semibold lg:text-6xl'>Find Your Perfect Fit</h1></div>
