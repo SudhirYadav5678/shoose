@@ -23,9 +23,9 @@ function HeroSection() {
                 </div>
 
                 <div className='hidden lg:flex justify-center items-center space-x-4 mt-10 w-full h-full mx-auto relative'>
-                    <img src="https://images.pexels.com/photos/28101335/pexels-photo-28101335/free-photo-of-a-church-tower-in-the-middle-of-a-street.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="Left Image" className="w-1/4 transform -rotate-6" loading='lazy' />
-                    <img src="https://images.pexels.com/photos/28101335/pexels-photo-28101335/free-photo-of-a-church-tower-in-the-middle-of-a-street.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="Middle Image" className="w-1/4" loading='lazy' />
-                    <img src="https://images.pexels.com/photos/28101335/pexels-photo-28101335/free-photo-of-a-church-tower-in-the-middle-of-a-street.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="Right Image" className="w-1/4 transform rotate-6" loading='lazy' />
+                    <img src="https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/y/j/10-rso337-10-red-tape-black-original-imah2wfuhvhcgudg.jpeg?q=70" alt="Left Image" className="w-1/4 transform -rotate-6" loading='lazy' />
+                    <img src="https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/x/s/6-sparta-wht-org-6-airson-white-original-imah4bfhrwtynppx.jpeg?q=70" alt="Middle Image" className="w-1/4" loading='lazy' />
+                    <img src="https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/m/k/-original-imahfuehgphmy6xu.jpeg?q=70" alt="Right Image" className="w-1/4 transform rotate-6" loading='lazy' />
                 </div>
 
                 <div className='w-[300px] h-[400px] mt-10 mx-auto relative lg:hidden'>

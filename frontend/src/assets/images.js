@@ -1,17 +1,17 @@
 export const images = [
     {
-        path: 'https://images.pexels.com/photos/28101335/pexels-photo-28101335/free-photo-of-a-church-tower-in-the-middle-of-a-street.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'
+        path: 'https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/t/x/-original-imahfrsz82au62u4.jpeg?q=70'
     },
     {
-        path: 'https://images.pexels.com/photos/27163466/pexels-photo-27163466/free-photo-of-woman-reading-a-book-in-shadow.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'
+        path: 'https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/y/w/s/6-rng-eva-971-blu-6-bruton-blue-original-imah4tqjhrgaeqwe.jpeg?q=70'
     },
     {
-        path: 'https://images.pexels.com/photos/28570315/pexels-photo-28570315/free-photo-of-young-woman-with-tablet-and-headphones.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'
+        path: 'https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/m/k/-original-imahfuehgphmy6xu.jpeg?q=70'
     },
     {
-        path: 'https://images.pexels.com/photos/27638606/pexels-photo-27638606/free-photo-of-portrait-of-newlyweds-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'
+        path: 'https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/x/s/6-sparta-wht-org-6-airson-white-original-imah4bfhrwtynppx.jpeg?q=70'
     },
     {
-        path: 'https://images.pexels.com/photos/19025446/pexels-photo-19025446/free-photo-of-aerial-view-of-autumnal-forest.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'
+        path: 'https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/y/j/10-rso337-10-red-tape-black-original-imah2wfuhvhcgudg.jpeg?q=70'
     },
 ]
